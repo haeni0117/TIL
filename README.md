@@ -13,5 +13,5 @@ datascience 시작하기
 
 | date | lecture |
 |-----|--------|
-|`20210620'|fddf|
+|`20210620`|fddf|
 
